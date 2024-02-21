@@ -1,0 +1,21 @@
+.search{
+   margin:auto;
+   width: fit-content;
+   
+   
+   
+}
+.btn1{
+    background-color: aqua;
+    color: beige;
+}
+.btn1:hover{
+color: rgb(0, 0, 0);
+}
+.sr1:hover{
+    background-color: beige;
+    color: brown;
+}
+ body{
+    background-color: rgb(110, 230, 194)!important;
+}
